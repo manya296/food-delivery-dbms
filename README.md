@@ -114,7 +114,7 @@ payments        (payment_id PK, order_id FK→orders UK, method, amount, payment
 Requires **MySQL 8.0.16 or later** (CHECK constraints are enforced from 8.0.16; window function query Q15 needs 8.0+).
 
 ```bash
-git clone https://github.com/<your-username>/food-delivery-dbms.git
+git clone https://github.com/manya296/food-delivery-dbms.git
 cd food-delivery-dbms
 
 mysql -u root -p < sql/01_schema.sql
