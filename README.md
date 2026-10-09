@@ -13,7 +13,6 @@ delivery agents deliver, and payments are recorded. The design is normalized to 
 | 18 SQL queries + DML / transaction demos | [`sql/04_queries.sql`](sql/04_queries.sql) |
 | Normalization (UNF → 1NF → 2NF → 3NF → BCNF) | [`docs/normalization.md`](docs/normalization.md) |
 | 12 relational algebra examples with SQL | [`docs/relational_algebra.md`](docs/relational_algebra.md) |
-| Viva questions and demo script | [`docs/viva_prep.md`](docs/viva_prep.md) |
 
 ## ER diagram
 
