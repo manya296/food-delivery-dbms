@@ -1,4 +1,4 @@
-# 🍔 Online Food Delivery Database (MySQL)
+# Online Food Delivery Database (MySQL)
 
 A DBMS course project that models an online food-ordering platform: customers order from restaurants,
 delivery agents deliver, and payments are recorded. The design is normalized to **BCNF** and implemented in **MySQL 8**.
