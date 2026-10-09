@@ -1,6 +1,4 @@
--- =====================================================================
--- 02_sample_data.sql  |  Run AFTER 01_schema.sql
--- =====================================================================
+
 USE food_delivery;
 
 INSERT INTO customers (customer_id, name, email, phone, city, created_at) VALUES
