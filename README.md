@@ -91,9 +91,6 @@ erDiagram
 | Order contains Menu Items | **M : N** | junction table `order_items` |
 | Order is paid by Payment | 1 : 1 (optional) | `payments.order_id` UNIQUE |
 
-> **Tip for submission:** for a classic Chen-style diagram, redraw this in draw.io or dbdiagram.io.
-> For an EER screenshot straight from the database, in MySQL Workbench use
-> *Database → Reverse Engineer…* after running the SQL files.
 
 ## Relational schema
 
