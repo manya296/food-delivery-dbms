@@ -106,7 +106,7 @@ All determinants are superkeys, so the schema is in **BCNF** (and therefore 3NF)
 
 ---
 
-## Design decisions worth explaining to faculty
+## Design decisions 
 
 1. **No `total_amount` column in `orders`.** It can be computed from `order_items`, so storing it
    would create a derived-data redundancy and risk inconsistency. We expose it through the view
