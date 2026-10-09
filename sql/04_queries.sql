@@ -1,7 +1,4 @@
--- =====================================================================
--- 04_queries.sql  |  Run AFTER 03_views_procedures_triggers.sql
--- Each query has a number, the question it answers, and the concept used.
--- =====================================================================
+
 USE food_delivery;
 
 -- Q1. Customers living in Indore                          [SELECT + WHERE]
